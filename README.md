@@ -12,3 +12,4 @@ Initially we downloaded the file from [usps website](https://about.usps.com/who/
 
 We can now discern a formula from which we can calculate the approximate growth in a zip code by COA requests: 
 $$\sum_{k=1}^{12} c_k - b_k = Z_i,\ \forall i,\  i \in ZIPCODES$$
+
