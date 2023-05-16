@@ -17,3 +17,4 @@ We then create a new tab on the sheets document and composed the following code:
 
 From there we generated the following pairs of code: =QUERY(YTD_ZIP!A1:D30000, "SELECT A, max(D) where D is not null GROUP BY A ORDER BY max(D) DESC LIMIT 15",1), and =QUERY(YTD_ZIP!A1:D30000, "SELECT A, max(D) where D is not null GROUP BY A ORDER BY max(D) ASC LIMIT 15",1). These are the same code, excepting whether they are ascending or descending in value, i.e., whether we are looking at the greatest values or the smallest values. We then generated the following charts from the results of the queries, showing the zipcodes with the greatest growth and the greatest shrinkage, respectively.
 
+/assets/images/
