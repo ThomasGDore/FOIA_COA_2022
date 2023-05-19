@@ -36,8 +36,10 @@ $$\sum_{k=1}^{12} ({c_i}_k - {b_i}_k) = Z_i,\ \forall i,\  i \in ZIPCODES$$
   <div class="caption" align="center">Shrinkage by Zipcode</div>
 </p>
 
-Now referencing [Wikipedia's List of ZIP Code prefixes](https://en.wikipedia.org/wiki/List_of_ZIP_Code_prefixes) we can see that 9/15 top Zipcodes by growth are all in Texas, with the others, in descending order of commonality to belong to Florida with 3/15, and North Carolina, South Carolina, and Georgia all taking one spot each.
+## Conclusions
 
+Now referencing [Wikipedia's List of ZIP Code prefixes](https://en.wikipedia.org/wiki/List_of_ZIP_Code_prefixes) we can see that 9/15 top Zipcodes by growth are all in Texas, with the others, in descending order of commonality to belong to Florida with 3/15, and North Carolina, South Carolina, and Arizona all taking one spot each. For the Zipcodes by greatest shrinkage we have 5/15 of the top moved-from Zipcodes to be in Texas as well. This would be a good indicator as to where a business owner or realtor might narrow their focus within Texas. There are also two Zipcodes in Indiana, one in Minnesota, one in Oregon, one in Vermont, one in Arizona, one in Kansas, opne in Illinois, and one in Missouri. Business owners and realtors in these Zipcodes could use this data to adjust business plans towards a smaller clientele or move to a growing area.
+<!---
 <p align="center">
   <img src="Growth_STATE.png" width="65%">
   <div class="caption" align="center">Growth by State</div>
@@ -47,3 +49,4 @@ Now referencing [Wikipedia's List of ZIP Code prefixes](https://en.wikipedia.org
   <img src="Shrinkage_STATE.png" width="65%">
   <div class="caption" align="center">Shrinkage by State</div>
 </p>
+--->
