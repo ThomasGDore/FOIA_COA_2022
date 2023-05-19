@@ -36,6 +36,8 @@ $$\sum_{k=1}^{12} ({c_i}_k - {b_i}_k) = Z_i,\ \forall i,\  i \in ZIPCODES$$
   <div class="caption" align="center">Shrinkage by Zipcode</div>
 </p>
 
+Now referencing [Wikipedia's List of ZIP Code prefixes](https://en.wikipedia.org/wiki/List_of_ZIP_Code_prefixes) we can see that 
+
 <p align="center">
   <img src="Growth_STATE.png" width="65%">
   <div class="caption" align="center">Growth by State</div>
