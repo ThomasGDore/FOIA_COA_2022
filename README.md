@@ -28,16 +28,20 @@ These are the same code, excepting whether they are ascending or descending in v
 
 <p align="center">
   <img src="Growth_ZIP.png" width="65%">
+  <div class="caption">Growth by Zipcode</div>
 </p>
 
 <p align="center">
   <img src="Shrinkage_ZIP.png" width="65%">
+  <div class="caption">Shrinkage by Zipcode</div>
 </p>
 
 <p align="center">
   <img src="Growth_STATE.png" width="65%">
+  <div class="caption">Growth by State</div>
 </p>
 
 <p align="center">
   <img src="Shrinkage_STATE.png" width="65%">
+  <div class="caption">Shrinkage by State</div>
 </p>
