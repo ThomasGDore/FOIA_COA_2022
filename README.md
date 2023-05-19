@@ -14,16 +14,16 @@ We can now discern a formula from which we can calculate the approximate growth 
 $$\sum_{k=1}^{12} ({c_i}_k - {b_i}_k) = Z_i,\ \forall i,\  i \in ZIPCODES$$
 
 We then create a new tab on the sheets document and composed the following code: 
-'''
+```
 =QUERY(COA_2022!A1:P500000, "select B, SUM(I), SUM(O) GROUP BY B ORDER BY SUM(I) DESC", 1).
-'''
+```
 This query generated for us three columns, the zipcode, a summation of every TOTAL PERM moving from that zipcode, and a summation of every TOTAL PERM moving to that zipcode. We then created a fourth column that subtracted the total number of COA requests moving to a zipcode permanently as a resident, from the total number of COA requests moving from a zipcode permanently as a resident.
 
 From there we generated the following pairs of code: 
-'''
+```
 =QUERY(YTD_ZIP!A1:D30000, "SELECT A, max(D) where D is not null GROUP BY A ORDER BY max(D) DESC LIMIT 15",1), and, 
 =QUERY(YTD_ZIP!A1:D30000, "SELECT A, max(D) where D is not null GROUP BY A ORDER BY max(D) ASC LIMIT 15",1).
-'''
+```
 These are the same code, excepting whether they are ascending or descending in value, i.e., whether we are looking at the greatest values or the smallest values. We then generated the following charts from the results of the queries, showing the zipcodes with the greatest growth and the greatest shrinkage, respectively.
 
 ![chart](Growth_ZIP.png)
