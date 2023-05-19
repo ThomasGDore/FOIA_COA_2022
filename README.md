@@ -28,7 +28,7 @@ These are the same code, excepting whether they are ascending or descending in v
 
 <p align="center">
   <img src="Growth_ZIP.png" width="65%">
-  <div class="caption">Growth by Zipcode</div>
+  <div class="caption" align="center">Growth by Zipcode</div>
 </p>
 
 <p align="center">
