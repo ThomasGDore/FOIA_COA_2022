@@ -26,7 +26,7 @@ $$\sum_{k=1}^{12} ({c_i}_k - {b_i}_k) = Z_i,\ \forall i,\  i \in ZIPCODES$$
 ```
   These are the same code, excepting whether they are ascending or descending in value, i.e., whether we are looking at the greatest values or the smallest values. We then generated the following charts from the results of the queries, showing the zipcodes with the greatest growth and the greatest shrinkage, respectively.
 
-
+<br></br>
 
 <p align="center">
   <img src="Growth_ZIP.png" width="65%">
