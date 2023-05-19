@@ -30,4 +30,14 @@ These are the same code, excepting whether they are ascending or descending in v
   <img src="Growth_ZIP.png" width="65%">
 </p>
 
+<p align="center">
+  <img src="Shrinkage_ZIP.png" width="65%">
+</p>
 
+<p align="center">
+  <img src="Growth_STATE.png" width="65%">
+</p>
+
+<p align="center">
+  <img src="Shrinkage_STATE.png" width="65%">
+</p>
