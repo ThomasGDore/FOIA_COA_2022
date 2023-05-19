@@ -30,7 +30,7 @@ $$\sum_{k=1}^{12} ({c_i}_k - {b_i}_k) = Z_i,\ \forall i,\  i \in ZIPCODES$$
   <img src="Growth_ZIP.png" width="65%">
   <div class="caption" align="center">Growth by Zipcode</div>
 </p>
-
+<br></br>
 <p align="center">
   <img src="Shrinkage_ZIP.png" width="65%">
   <div class="caption" align="center">Shrinkage by Zipcode</div>
